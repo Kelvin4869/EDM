@@ -33,7 +33,7 @@ HTML（英文 Hyper Text Markup Language的缩写）中文译为“超文本标�
 
 日常生活的书信，我们要遵循共同的约定。 
 
-<img src="media/mess.png" alt="">
+<img src="resource/mess.png" alt="">
 
 同理：HTML 有自己的语言语法骨架格式：（要遵循，要专业）
 
@@ -87,7 +87,7 @@ HTML（英文 Hyper Text Markup Language的缩写）中文译为“超文本标�
 
 为了便于记忆，我们请出刚才要辞职回家养猪的二师兄来帮忙， 我称之为  猪八戒记忆法 
 
-<img src="media/pig.png" width="500" />
+<img src="resource/pig.png" width="500" />
 
 
 
@@ -151,7 +151,7 @@ HTML标签名、类名、标签属性和大部分属性值统一用小写
 </head>
 ```
 
-<img src="media/father.jpg">
+<img src="resource/father.jpg">
 
 2.并列关系(兄弟关系)
 
@@ -160,7 +160,7 @@ HTML标签名、类名、标签属性和大部分属性值统一用小写
 <body></body>
 ```
 
-<img src="media/xiong.jpg">
+<img src="resource/xiong.jpg">
 
 **倡议：** 
 
@@ -187,7 +187,7 @@ HTML标签名、类名、标签属性和大部分属性值统一用小写
 
 为了提高我们的开发效率，我们不提倡用记事本开发，我们有更好的犀利哥。
 
-<img src="media/s.png" />
+<img src="resource/s.png" />
 
 有人说：
 
@@ -199,7 +199,7 @@ HTML标签名、类名、标签属性和大部分属性值统一用小写
 
   其实。。。。
 
-  <img src="media/node.png" />
+  <img src="resource/node.png" />
 
  **小技巧：**
 
@@ -212,7 +212,7 @@ HTML标签名、类名、标签属性和大部分属性值统一用小写
 
 感觉： 这个feel 倍儿爽 feel feel倍儿爽 爽爽爽爽！
 
-<img src="media/shuang.gif" />
+<img src="resource/shuang.gif" />
 
 # 6. 文档类型<!DOCTYPE>
 
@@ -322,7 +322,7 @@ utf-8是目前最常用的字符集编码方式，常用的字符集编码方式
 
 显示效果如下：
 
-<img src="media/h.png" />
+<img src="resource/h.png" />
 
 **小结 :**
 
@@ -367,7 +367,7 @@ utf-8是目前最常用的字符集编码方式，常用的字符集编码方式
 
 课堂练习2：    新闻页面 
 
-<img src="media/sh.png" /> 
+<img src="resource/sh.png" /> 
 
 ### 换行标签br (熟记)
 
@@ -417,7 +417,7 @@ span, 跨度，跨距；范围
 
 在网页中，有时需要为文字设置粗体、斜体或下划线效果，这时就需要用到HTML中的文本格式化标签，使文字以特殊的方式显示。
 
-<img src="media/tab.png" />
+<img src="resource/tab.png" />
 
 **区别：**
 
@@ -425,7 +425,7 @@ span, 跨度，跨距；范围
 
 ## 10.3 标签属性
 
-<img src="media/ttt.jpg" width="300"  />
+<img src="resource/ttt.jpg" width="300"  />
 
 所谓属性就是外在特性 比如 手机的颜色 手机的尺寸 ，总结就是手机的。。
 
@@ -441,7 +441,7 @@ span, 跨度，跨距；范围
 <标签名 属性1="属性值1" 属性2="属性值2" …> 内容 </标签名>
 ```
 
-提倡：   尽量不使用 样式属性。   <img src="media/sm.jpg" /> 
+提倡：   尽量不使用 样式属性。   <img src="resource/sm.jpg" /> 
 
 ## 10.4 图像标签img (重点)
 
@@ -455,7 +455,7 @@ span, 跨度，跨距；范围
 <img src="图像URL" />  它 是一个单标签    他来电   它来电了
 ```
 
-<img src="media/img.png" />
+<img src="resource/img.png" />
 
 **注意: **
 
@@ -533,7 +533,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 <base target="_blank" />
 
-<img src="media/base.png" />
+<img src="resource/base.png" />
 
 **总结： **
 
@@ -571,7 +571,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 
 
-<img src="media/zs.png" />
+<img src="resource/zs.png" />
 
 ### 团队约定
 
@@ -600,7 +600,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
  一些特殊的符号，我们再html 里面很难或者 不方便直接 使用， 我们此时可以使用下面的替代代码。
 
-<img src="media/zifu.png" />
+<img src="resource/zifu.png" />
 
 **总结：**
 
@@ -608,7 +608,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 2. 他们不是标签，而是符号。
 
-3.  HTML 中不能使用小于号 “<” 和大于号 “>”特殊字符，浏览器会将它们作为标签解析，若要正确显示，在 HTML 源代码中使用字符实体
+3. HTML 中不能使用小于号 “<” 和大于号 “>”特殊字符，浏览器会将它们作为标签解析，若要正确显示，在 HTML 源代码中使用字符实体
 
    *推荐：*
 
@@ -624,9 +624,9 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 # 11. 路径(重点、难点)
 
-<img src="media/dt.png" width="400" />
+<img src="resource/dt.png" width="400" />
 
-<img src="media/lj.png" />
+<img src="resource/lj.png" />
 
 实际工作中，我们的文件不能随便乱放，否则用起来很难快速的找到他们，因此我们需要一个文件夹来管理他们。
 
@@ -634,13 +634,13 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 就是普通文件夹，里面只不过存放了我们做页面所需要的 相关素材，比如 html文件， 图片 等等。
 
-<img src="media/g.png" />
+<img src="resource/g.png" />
 
 **根目录 **  
 
 打开目录文件夹的第一层  就是 根目录 
 
-<img src="media/gg.png" />
+<img src="resource/gg.png" />
 
 页面中的图片会非常多， 通常我们再新建一个文件夹专门用于存放图像文件（images），这时再插入图像，就需要采用“路径”的方式来指定图像文件的位置。路径可以分为： 相对路径和绝对路径
 
@@ -668,7 +668,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 1.**在下面结构中，哪种写法可以在index页面中有输出img.gif**
 
-![1512226080266](media/1512226080266.png)
+![1512226080266](resource/1512226080266.png)
 
 - [ ] (A) <img src=”../image/img.gif” /> 		
 - [x] (B) <img src=”image/img.gif” /> 
@@ -677,7 +677,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 **2在下面结构中，哪种写法可以在index页面中有输出1.jpg**
 
-![1512226099480](media/1512226099480.png)
+![1512226099480](resource/1512226099480.png)
 
 - [ ] (A) <img src=”../1/2/1.jpg” />		
 - [ ] (B) <img src=”/1/2/1.jpg” />
@@ -686,7 +686,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 3在下面结构中哪种写法可以在index页面中有输出img.gif
 
-![1512226121609](media/1512226121609.png)
+![1512226121609](resource/1512226121609.png)
 
 - [ ] (A) <img src=”demo/image/img.gif” /> 	
 - [x] (B) <img src=”image/img.gif” /> 
@@ -699,17 +699,17 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 学HTML 之前 觉得 很神秘  
 
-<img src="media/z.png" />
+<img src="resource/z.png" />
 
 等你学完之后忽然发现
 
-<img src="media/rh.jpg" width="615" />
+<img src="resource/rh.jpg" width="615" />
 
 
 
 总结今天的思路贯穿线：
 
-<img src="media/a.png" width="1000" />
+<img src="resource/a.png" width="1000" />
 
 
 
@@ -719,7 +719,7 @@ target：用于指定链接页面的打开方式，其取值有_self和_blank两
 
 
 
-<img src="media/html5.png" width="600"/>
+<img src="resource/html5.png" width="600"/>
 
 
 
