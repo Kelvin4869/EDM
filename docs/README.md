@@ -2,13 +2,13 @@
 home: true
 heroImage: /logo.png
 actionText: Are you ready? Go. →
-actionLink: /accumulate/docsMd/test1
+actionLink: /react/README.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title:
+  details:
+- title: Love life, love code.
+  details: 人是要长大的，有天你也会推着婴儿车幸福地在街上行走，而曾经的喜欢，不管曾经怎样，都会幻化成风，消失在时光的隧道。所以向前走，向前走，无须回头。
+- title:
+  details:
 footer: MIT Licensed | Copyright © 2019-present Kelvin KUANG
 ---
