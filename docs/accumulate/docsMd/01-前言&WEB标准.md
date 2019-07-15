@@ -6,15 +6,15 @@
 
 网站首页
 
-<img src="EdmPublicDist/电商-主页-gai.jpg" />
+<img src="../../../docs/.vuepress/public/img/电商-主页-gai.jpg" />
 
 网站列表页
 
-<img src="EdmPublicDist/电商-分类列表页.jpg" >
+<img src="resource/电商-分类列表页.jpg" >
 
 网页详情页
 
-<img src="EdmPublicDist/电商-产品详情页.jpg" >
+<img src="resource/电商-产品详情页.jpg" >
 
 登录页 注册页等等。。。。
 
@@ -22,7 +22,7 @@
 
 # 课程安排
 
-<img src="EdmPublicDist/kec.png" >
+<img src="resource/kec.png" >
 
  就业班详情 参看： http://www.itcast.cn/course/web.shtml 
 
@@ -36,13 +36,13 @@
 网页主要由文字、图像和超链接等元素构成。当然，除了这些元素，网页中还可以包含音频、视频以及Flash等。
 ```
 
-<img src="EdmPublicDist/mi.png"alt="">
+<img src="resource/mi.png"alt="">
 
 ```
 思考：  网页是如何形成的呢?
 ```
 
-<img src="EdmPublicDist/web.png" />
+<img src="resource/web.png" />
 
 
 
@@ -50,23 +50,23 @@
 
 平时我们浏览网页，是在浏览器地址栏中输入网页地址，就可以访问我们的页面了。你的浏览器呢？
 
-<img src="EdmPublicDist/add.png" >
+<img src="resource/add.png" >
 
 ```
 浏览器是网页显示、运行的平台，常用的浏览器有IE、火狐（Firefox）、谷歌（Chrome）、Safari和Opera等。我们平时称为五大浏览器。
 ```
 
-<img src="EdmPublicDist/b.png" />
+<img src="resource/b.png" />
 
 可能你最熟悉的是 IE浏览器，但是。。。
 
-<img src="EdmPublicDist/liulan.jpg" >
+<img src="resource/liulan.jpg" >
 
 ## 查看浏览器占有的市场份额（知晓）
 
 查看网站： <a href="http://tongji.baidu.com/data/browser" target="_blank">http://tongji.baidu.com/data/browser</a>
 
-<img src="EdmPublicDist/count.png" />
+<img src="resource/count.png" />
 
   2008年，大名鼎鼎的互联网巨头Google公司发布了它的首款浏览器Chrome浏览器。   
 
@@ -139,7 +139,7 @@ W3C 万维网联盟 是国际最著名的标准化组织。1994年成立后，�
 问：  哪个方言再全国基本都可以听得懂？      
 ```
 
-<img src="EdmPublicDist/bz.png" />
+<img src="resource/bz.png" />
 
 ## 3.2 Web 标准的好处
 
@@ -167,19 +167,19 @@ W3C 万维网联盟 是国际最著名的标准化组织。1994年成立后，�
 
 直观感受：
 
-<img src="EdmPublicDist/gx.png" />
+<img src="resource/gx.png" />
 
 总结WEB标准：
 
-结构标准：   <img src="EdmPublicDist/hb1.png" />  决定你是否有个好天然身体 
+结构标准：   <img src="resource/hb1.png" />  决定你是否有个好天然身体 
 
 
 
-表现标准：   <img src="EdmPublicDist/hb2.png" />  决定你是否打扮的美丽外观
+表现标准：   <img src="resource/hb2.png" />  决定你是否打扮的美丽外观
 
 
 
-行为标准：   <img src="EdmPublicDist/hb3.jpg"  width="420"   />  决定你是否有吸引人的行为
+行为标准：   <img src="resource/hb3.jpg"  width="420"   />  决定你是否有吸引人的行为
 
 
 
