@@ -2,7 +2,8 @@
 home: true
 heroImage: /logo.png
 actionText: Are you ready? Go. →
-actionLink: /react/README.md
+# actionLink: /accumulate/docsMd/test1
+actionLink: /react/React-day01
 features:
 - title:
   details:
