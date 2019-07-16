@@ -1,6 +1,6 @@
 # React-day01
 
-# React开发脚手架工具
+## React开发脚手架工具
 
 [React脚手架](https://www.npmjs.com/package/create-react-app)(Facebook官方出品)
 
@@ -12,7 +12,7 @@
 
 `npm start or yarn start`
 
-# React核心概念
+## React核心概念
 
 - 虚拟DOM(Virtual DOM)
 - Diff算法(Diff Algorithm)
@@ -21,7 +21,7 @@
 - JSX
 - 一切皆为组件
 
-# React搭建开发环境(不用脚手架)
+## React搭建开发环境(不用脚手架)
 
 `mkdir react-demo`
 
@@ -108,9 +108,9 @@ ReactDom.render(
 
 
 
-# JSX
+## JSX
 
-## JSX基本使用
+### JSX基本使用
 
 ```js
 const element = <h1>hello world</h1>;
@@ -120,7 +120,7 @@ const element = <h1>hello world</h1>;
 
 它被称为JSX,一种JavaScript的语法扩展,我们推荐在React使用JSX来描述用户界面
 
-## JSX嵌套元素
+### JSX嵌套元素
 
 注意:只能包含一个根节点
 
@@ -135,7 +135,7 @@ ReactDOM.render(
 )
 ```
 
-## JSX表达式
+### JSX表达式
 
 JSX表达式通过{}来使用,和vue当中的{{}}很类似,它也有它的合法使用方式
 
@@ -166,7 +166,7 @@ ReactDOM.render(
 
 
 
-## JSX注释
+### JSX注释
 
 ```jsx
 {
@@ -183,7 +183,7 @@ ReactDOM.render(
 
 
 
-## JSX属性
+### JSX属性
 
 因为JSX的特性更接近JavaScript而不是HTML,所以React DOM使用camelCase小驼峰命名 来定义属性的名称, 而不是使用HTML的属性名称
 
@@ -215,7 +215,7 @@ ReactDOM.render(
 
 
 
-## JSX样式
+### JSX样式
 
 ```js
 import React from 'react';
@@ -240,7 +240,7 @@ ReactDOM.render(
 
 
 
-# React.createElement()
+## React.createElement()
 
 ```js
 import React from 'react';
@@ -263,9 +263,11 @@ ReactDOM.render(
 
 
 
-# react-virtual-dom
+## react-virtual-dom
 
-# Diff算法
+
+
+## Diff算法
 
 Diff算法会帮助我们计算出Virtual DOM中真正变化的部分,并只针对该部分进行实际DOM操作,而非重新渲染整个页面,从而保证每次操作更新后面的高效渲染,因此Virtual DOM 与diff是保证React性能口碑的幕后推手
 
@@ -285,7 +287,7 @@ Web UI中DOM节点跨层级的移动操作特别少,可以忽略不计
 
 
 
-# 组件-函数创建组件
+## 组件-函数创建组件
 
 组件名称必须以大写字母开头
 
@@ -324,7 +326,7 @@ ReactDOM.render(
 )
 ```
 
-# ES6 class的方法
+## ES6 class的方法
 
 ```js
 function Father(firstName) {
@@ -382,7 +384,7 @@ class Father {
 
 
 
-# 用class方法创建组件
+## 用class方法创建组件
 
 ```js
 // 1.要通过class创建组件,首先要引入Component这个类,以后创建的组件都需要继承这个类
