@@ -19,5 +19,9 @@ module.exports = {
   '/react/': [
     '/react/',// react文件夹的README.md 不是下拉框形式
     '/react/React-day01',
+    '/react/React-day02',
+    '/react/React-day03',
+    '/react/React-day04',
+    '/react/React-day05',
   ]
 };
