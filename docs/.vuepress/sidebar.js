@@ -25,7 +25,7 @@ module.exports = {
     '/react/React-day05',
   ],
   '/jQuery/': [
-    // '/jQuery/',// jQuery文件夹的README.md 不是下拉框形式
+    '/jQuery/',// jQuery文件夹的README.md 不是下拉框形式
     '/jQuery/jQuery-day01',
     '/jQuery/jQuery-day02',
     '/jQuery/jQuery-day03',
