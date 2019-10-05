@@ -24,12 +24,12 @@ module.exports = {
     '/react/React-day04',
     '/react/React-day05',
   ],
-  '/jQuery/': [
-    '/jQuery/',// jQuery文件夹的README.md 不是下拉框形式
-    '/jQuery/jQuery-day01',
-    '/jQuery/jQuery-day02',
-    '/jQuery/jQuery-day03',
-    '/jQuery/jQuery-day04',
-    '/jQuery/jQuery-day05',
+  '/jquery/': [
+    '/jquery/',// jQuery文件夹的README.md 不是下拉框形式
+    '/jquery/jQuery-day01',
+    '/jquery/jQuery-day02',
+    '/jquery/jQuery-day03',
+    '/jquery/jQuery-day04',
+    '/jquery/jQuery-day05',
   ],
 };
