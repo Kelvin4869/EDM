@@ -30,6 +30,5 @@ module.exports = {
     '/jquery/jQuery-day02',
     '/jquery/jQuery-day03',
     '/jquery/jQuery-day04',
-    '/jquery/jQuery-day05',
   ],
 };
